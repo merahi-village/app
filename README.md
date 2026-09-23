@@ -7,4 +7,4 @@ GitHub-ready Android app. Upload the contents of this folder to the repository r
 2. Download the `mOne-android-apk` artifact.
 3. For a permanent public download, push a tag such as `v1.0.0`; GitHub Actions will attach the APK to Releases.
 
-Package ID: `com.mone.app`
+Package ID: `com.merahi.mone`
